@@ -1,42 +1,30 @@
 <div align="center">
 
-<pre>
-╔═══════════════════════╗
-║     💻  Division-Calc  💻     ║
-╚═══════════════════════╝
-</pre>
+# Division Calculator — C
 
-## Project Repository
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-
+*A command-line calculator for division operations with error handling for edge cases.*
 
 </div>
 
 ---
 
-## About
-
-A Python project repository. See the source code for details.
-
----
-
 ## Features
 
-- See source code for details
+- Integer and floating-point division
+- Division-by-zero detection and handling
+- Quotient and remainder output
+- Clean CLI interface
 
 ---
 
-## Tech Stack
+## Tech stack
 
-_See source_
-
----
-
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`C` · `GCC`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
